@@ -1,2 +1,2 @@
 Покрытие тестами: 
-![](https://github.com/OverlordPigeon/LabWork1/blob/main/TestCoverage.jpg)
+![](https://github.com/OverlordPigeon/ppois/blob/main/LabWork1/TestCoverage.jpg)
