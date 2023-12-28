@@ -1,0 +1,13 @@
+#pragma once
+#include "Appointment.h"
+#include "Clinic.h"
+#include "Doctor.h"
+#include "Document.h"
+#include "Document.h"
+#include "Medication.h"
+#include "Patient.h"
+#include "PatientHistory.h"
+#include "Person.h"
+#include "Receptionist.h"
+#include "Ward.h"
+#include "Worker.h"
